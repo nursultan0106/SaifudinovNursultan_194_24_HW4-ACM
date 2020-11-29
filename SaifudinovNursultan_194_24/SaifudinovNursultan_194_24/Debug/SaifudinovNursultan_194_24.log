@@ -1,0 +1,5 @@
+﻿  SaifudinovNursultan_194_24.cpp
+C:\Users\Nursultan\Downloads\Учеба\АВС\4\SaifudinovNursultan_194_24\SaifudinovNursultan_194_24\SaifudinovNursultan_194_24.cpp(17,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Nursultan\Downloads\Учеба\АВС\4\SaifudinovNursultan_194_24\SaifudinovNursultan_194_24\SaifudinovNursultan_194_24.cpp(19,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nursultan\Downloads\Учеба\АВС\4\SaifudinovNursultan_194_24\SaifudinovNursultan_194_24\SaifudinovNursultan_194_24.cpp(42,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SaifudinovNursultan_194_24.vcxproj -> C:\Users\Nursultan\Downloads\Учеба\АВС\4\SaifudinovNursultan_194_24\Debug\SaifudinovNursultan_194_24.exe
